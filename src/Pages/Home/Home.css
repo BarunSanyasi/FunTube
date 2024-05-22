@@ -1,0 +1,13 @@
+.contantLayout{
+    display: flex;
+    margin-left: 80px;
+}
+
+.content-box{
+    display: flex;
+    flex-direction: column;
+    margin: 12px 10px;
+    border-radius: 1rem;
+    height: auto;
+    width: auto;
+}
